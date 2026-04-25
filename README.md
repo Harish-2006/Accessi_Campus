@@ -47,15 +47,15 @@ Accessi-Campus is built around the principle that technology should simplify, no
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-  -React (Create React App)
-  -HTML, CSS, JavaScript
+  - React (Create React App)
+  - HTML, CSS, JavaScript
 ### ⚙️ Backend
-  -Django (Python-based web framework)
-  -Django REST Framework (for building APIs)
+  - Django (Python-based web framework)
+  - Django REST Framework (for building APIs)
 ### 🗄️ Database & Backend Services
-  -Supabase (PostgreSQL database + backend services)
+  - Supabase (PostgreSQL database + backend services)
 ### 🔗 Integration
-  -RESTful APIs for communication between frontend and backend
+  - RESTful APIs for communication between frontend and backend
 
 ---
 
