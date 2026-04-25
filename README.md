@@ -70,10 +70,10 @@ Accessi-Campus is built around the principle that technology should simplify, no
 
 ## 👨‍💻 Authors
 
-Harish J  
+**Harish J**  
 GitHub: (Harish-2006)
 
-Swarnalakshmi S  
+**Swarnalakshmi S**  
 GitHub: (Swarna-2006)
 
 ---
